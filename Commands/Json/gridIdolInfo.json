@@ -1,0 +1,32 @@
+{
+    "Tribe3": {
+        "color": "008000",
+        "location": "H3",
+        "found": false
+    },
+    "Tribe4": {
+        "color": "008000",
+        "location": "E3",
+        "found": false
+    },
+    "Tribe5": {
+        "color": "008000",
+        "location": "S2",
+        "found": false
+    },
+    "Tribe6": {
+        "color": "008000",
+        "location": "H4",
+        "found": false
+    },
+    "Tribe1": {
+        "color": "008000",
+        "location": "W9",
+        "found": false
+    },
+    "Tribe2": {
+        "color": "008000",
+        "location": "H5",
+        "found": false
+    }
+}

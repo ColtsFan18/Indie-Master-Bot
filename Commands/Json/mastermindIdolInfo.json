@@ -1,0 +1,68 @@
+{
+    "Tribe3": {
+        "color": "008000",
+        "location": [
+            "K7",
+            "B1",
+            "R9",
+            "J8",
+            "G9"
+        ],
+        "found": true
+    },
+    "Tribe4": {
+        "color": "008000",
+        "location": [
+            "E3",
+            "S4",
+            "T9",
+            "O5",
+            "A7"
+        ],
+        "found": false
+    },
+    "Tribe5": {
+        "color": "008000",
+        "location": [
+            "S2",
+            "U5",
+            "W5",
+            "C1",
+            "K4"
+        ],
+        "found": false
+    },
+    "Tribe6": {
+        "color": "008000",
+        "location": [
+            "N4",
+            "X1",
+            "Q8",
+            "H2",
+            "S9"
+        ],
+        "found": false
+    },
+    "Tribe1": {
+        "color": "008000",
+        "location": [
+            "W9",
+            "U5",
+            "Y4",
+            "A4",
+            "G8"
+        ],
+        "found": true
+    },
+    "Tribe2": {
+        "color": "008000",
+        "location": [
+            "H5",
+            "A8",
+            "U9",
+            "D7",
+            "F9"
+        ],
+        "found": true
+    }
+}
